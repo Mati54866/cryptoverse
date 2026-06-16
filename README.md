@@ -2,12 +2,26 @@
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+A real-time cryptocurrency tracking app built with React, Redux Toolkit, and Ant Design.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Live Demo
+[https://cryptoverse-by-mati.netlify.app](https://cryptoverse-by-mati.netlify.app)
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+## Features
+- Live cryptocurrency prices
+- Market cap and 24h volume
+- Interactive price charts
+- Crypto news feed
+- Search and filter cryptos
 
-By the end of this video, you will become the master of working with APIs.
+## Tech Stack
+- React 18
+- Redux Toolkit
+- Ant Design
+- Chart.js
+- Vite
+
+## Installation
+```bash
+npm install
+npm run dev
