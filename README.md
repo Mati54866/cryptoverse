@@ -1,5 +1,7 @@
 # Cryptoverse - Explore the World of Cryptocurrency
 
+[![CI Status](https://github.com/Mati54866/cryptoverse/actions/workflows/ci.yml/badge.svg)](https://github.com/Mati54866/cryptoverse/actions)
+
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
 A real-time cryptocurrency tracking app built with React, Redux Toolkit, and Ant Design.
