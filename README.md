@@ -16,7 +16,7 @@ A real-time cryptocurrency tracking app built with React, Redux Toolkit, and Ant
 - Crypto news feed
 - Search and filter cryptos
 
-## Tech Stack
+## Tech Stacks
 - React 18
 - Redux Toolkit
 - Ant Design
